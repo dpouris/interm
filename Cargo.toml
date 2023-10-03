@@ -1,0 +1,45 @@
+[package]
+name = "interm"
+authors = ["Dimitrios Pouris <jimpouris0@gmail.com>"] 
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+license-file = "LICENSE.md"
+description = "InTerm is a library for creating interactive terminal applications."
+homepage = "https://github.com/dpouris/interm"
+documentation = "https://docs.rs/interm"
+repository = "https://github.com/dpouris/interm"
+readme = "README.md"
+keywords = [
+    "terminal",
+    "cli",
+    "console",
+    "interactive",
+    "rust",
+    "library",
+    "ncurses",
+    "crossterm",
+    "tui",
+    "user-interface",
+    "terminal-graphics",
+]
+categories = [
+    "terminal",
+    "command-line-utilities",
+    "user-interfaces",
+    "development-tools",
+]
+
+[lib]
+name = "interm"
+path = "src/lib.rs"
+crate-type = ["cdylib", "rlib"]
+
+
+[dependencies]
+rand = "0.8.5"
+tokio = { version = "^1.32", features = ["rt", "macros", "sync", "time", "rt-multi-thread"] }
+
+[[example]]
+name = "download_sync"
+path = "examples/download_sync.rs"
