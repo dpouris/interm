@@ -2,6 +2,14 @@
 
 InTerm is a Rust library designed to facilitate the creation of interactive terminal applications. It provides a simple and flexible way to create and manage interactive elements within the terminal, allowing for interactive and dynamic user interfaces.
 
+## Table of Contents
+
+- [Features](#features)
+- [Usage](#usage)
+- [Examples](#examples)
+- [Contributing](#contributing)
+- [License](#license)
+
 ## Features
 
 - **Block Structure**: Represents a block of interactive elements or indexed lines in the terminal, consisting of a vector of `InteractiveElement` instances.
@@ -53,6 +61,8 @@ To use InTerm in your Rust project, follow these steps:
 ## Examples
 
 Check the [examples](examples) directory for more usage examples.
+
+![Example](examples/download_sync.gif)
 
 ## Contributing
 

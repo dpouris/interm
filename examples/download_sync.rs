@@ -46,7 +46,7 @@ async fn download(cur: Arc<TokioMutex<Block>>, elem: InteractiveLine) -> IoResul
         {
             cur.lock().await.update_element(&elem, &content, true)?;
         }
-        sleep(Duration::from_millis(100 * (r / 100) as u64)).await;
+        sleep(Duration::from_millis(150 * (r / 100) as u64)).await;
     }
 
     cur.lock().await.update_element(
