@@ -1,6 +1,3 @@
-Certainly! Here is the Markdown source for the detailed `README.md` file:
-
-
 # InTerm: Interactive Terminal Library for Rust
 
 InTerm is a Rust library designed to facilitate the creation of interactive terminal applications. It provides a simple and flexible way to create and manage interactive elements within the terminal, allowing for interactive and dynamic user interfaces.
