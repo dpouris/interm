@@ -23,6 +23,9 @@ categories = [
     "user-interfaces",
     "development-tools",
 ]
+exclude = [
+    "examples/*",
+]
 
 [lib]
 name = "interm"
