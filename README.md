@@ -1,6 +1,15 @@
 # InTerm: Interactive Terminal Library for Rust
+[![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
+[![crates.io](https://img.shields.io/crates/v/interm.svg)](https://crates.io/crates/interm)
+[![Documentation](https://docs.rs/interm/badge.svg)](https://docs.rs/interm)
 
 InTerm is a Rust library designed to facilitate the creation of interactive terminal applications. It provides a simple and flexible way to create and manage interactive elements within the terminal, allowing for interactive and dynamic user interfaces.
+
+---
+
+⚠️ **Disclaimer**: This project is still very much a work in progress, and contributions from the community are highly encouraged and appreciated! If you're interested in contributing, please read our [contribution guidelines](CONTRIBUTING.md) :)
+
+---
 
 ## Table of Contents
 
