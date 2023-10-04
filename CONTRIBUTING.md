@@ -29,11 +29,11 @@ This project and everyone participating in it are governed by our [Code of Condu
 
 ## Reporting Bugs
 
-If you encounter a bug, please [open an issue](https://github.com/your-username/interm/issues) on GitHub. Be sure to provide sufficient information for us to reproduce the bug, including the steps to reproduce and your environment details.
+If you encounter a bug, please [open an issue](https://github.com/dpouris/interm/issues) on GitHub. Be sure to provide sufficient information for us to reproduce the bug, including the steps to reproduce and your environment details.
 
 ## Suggesting Enhancements
 
-If you have an idea for an enhancement or a new feature, feel free to [open an issue](https://github.com/your-username/interm/issues) on GitHub. Please include details about your proposed enhancement and any relevant context.
+If you have an idea for an enhancement or a new feature, feel free to [open an issue](https://github.com/dpouris/interm/issues) on GitHub. Please include details about your proposed enhancement and any relevant context.
 
 ## Pull Requests
 
