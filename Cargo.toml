@@ -13,12 +13,6 @@ readme = "README.md"
 keywords = [
     "terminal",
     "cli",
-    "console",
-    "interactive",
-    "rust",
-    "library",
-    "ncurses",
-    "crossterm",
     "tui",
     "user-interface",
     "terminal-graphics",
