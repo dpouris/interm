@@ -1,7 +1,7 @@
 [package]
 name = "interm"
 authors = ["Dimitrios Pouris <jimpouris0@gmail.com>"] 
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 license = "MIT"
 license-file = "LICENSE"
